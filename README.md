@@ -8,4 +8,5 @@
 - [ 22 / 04 / 04 ] [객체 지향 프로그래밍 <프로퍼티와 초기화> (2/2)](https://velog.io/@zzangdd/TIL-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EC%99%80-%EC%B4%88%EA%B8%B0%ED%99%94-22)
 - [ 22 / 04 / 12 ] [객체 지향 프로그래밍 <다양한 클래스와 인터페이스> (1/2)](https://velog.io/@zzangdd/TIL-%EB%8B%A4%EC%96%91%ED%95%9C-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
 - [ 22 / 04 / 13 ] [객체 지향 프로그래밍 <다양한 클래스와 인터페이스> (2/2)](https://velog.io/@zzangdd/%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%ED%94%84%EB%9E%98%EB%B0%8D-%EB%8B%A4%EC%96%91%ED%95%9C-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-22)
-- [ 22 / 04 / 14 ] [제네릭과 배열 (1/2)](https://velog.io/@zzangdd/%EC%A0%9C%EB%84%A4%EB%A6%AD%EA%B3%BC-%EB%B0%B0%EC%97%B4)
+- [ 22 / 04 / 14 ] [제네릭과 배열 (1/3)](https://velog.io/@zzangdd/%EC%A0%9C%EB%84%A4%EB%A6%AD%EA%B3%BC-%EB%B0%B0%EC%97%B4)
+- [ 22 / 04 / 15 ] [제네릭과 배열 (2/3)](https://velog.io/@zzangdd/%EC%A0%9C%EB%84%A4%EB%A6%AD%EA%B3%BC-%EB%B0%B0%EC%97%B4-23)
