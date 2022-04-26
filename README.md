@@ -12,3 +12,4 @@
 - [ 22 / 04 / 15 ] [제네릭과 배열 (2/3)](https://velog.io/@zzangdd/%EC%A0%9C%EB%84%A4%EB%A6%AD%EA%B3%BC-%EB%B0%B0%EC%97%B4-23)
 - [ 22 / 04 / 16 ] [제네릭과 배열 (3/3)](https://velog.io/@zzangdd/%EC%A0%9C%EB%84%A4%EB%A6%AD%EA%B3%BC-%EB%B0%B0%EC%97%B4-33)
 - [ 22 / 04 / 22 ] [컬렉션 (Collection) (1/2)](https://velog.io/@zzangdd/%EC%BB%AC%EB%A0%89%EC%85%98-Collection-12)
+- [ 22 / 04 / 26 ] [컬렉션 (Collection) (2/2)](https://velog.io/@zzangdd/%EC%BB%AC%EB%A0%89%EC%85%98-Collection-22)
