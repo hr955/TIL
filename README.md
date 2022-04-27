@@ -13,3 +13,4 @@
 - [ 22 / 04 / 16 ] [제네릭과 배열 (3/3)](https://velog.io/@zzangdd/%EC%A0%9C%EB%84%A4%EB%A6%AD%EA%B3%BC-%EB%B0%B0%EC%97%B4-33)
 - [ 22 / 04 / 22 ] [컬렉션 (Collection) (1/2)](https://velog.io/@zzangdd/%EC%BB%AC%EB%A0%89%EC%85%98-Collection-12)
 - [ 22 / 04 / 26 ] [컬렉션 (Collection) (2/2)](https://velog.io/@zzangdd/%EC%BB%AC%EB%A0%89%EC%85%98-Collection-22)
+- [ 22 / 04 / 27 ] [표준 함수와 파일 입출력](https://velog.io/@zzangdd/%ED%91%9C%EC%A4%80-%ED%95%A8%EC%88%98%EC%99%80-%ED%8C%8C%EC%9D%BC-%EC%9E%85%EC%B6%9C%EB%A0%A5)
